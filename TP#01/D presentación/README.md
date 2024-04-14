@@ -5,10 +5,10 @@
 
 ### Informacion General
 ***
-Carpeta: ***C Prototipo***
-# Prototipo
+Carpeta: ***D Precentacion***
+# Precentaciòn
 
-***En esta carpeta estara toda los primero prototipos o Ensayo que se haga para TP#01:***
+***En esta carpeta estara toda la precentación que se haga para TP#01:***
 
 
 
@@ -18,15 +18,17 @@ Carpeta: ***C Prototipo***
 Software 
 ```
 visualizador de PDF
-Poteus
-Tinkercad
-Otros
+powerpoint
+Open Broadcaster Software
 ```
 ## Objetivos
 ***
-• llegar a implementar las ideas y las herramientas
- que estaba en la carpeta de investigacion  
-• analizar posobles fallas
+• exponer, explicar su funcionamiento  
+
+• enseñar el proceso que hicimos para llegar a completar la tarea  
+
+• sacar el máximo provecho al ABP
+
 
 ## Actualizacion
 ***

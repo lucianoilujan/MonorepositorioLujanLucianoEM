@@ -5,7 +5,14 @@
 
 ### Informacion General
 ***
-TP #1 Simulación Eléctrica  
+Extructura pedida por el profesor
+En la carpeta ***"A Requisitos":*** se encuentran los requisitos de la tarea   
+En la carpeta ***"B Investigación":*** se encuentran las investigaciones sobre la tarea pedida  
+En la carpeta ***"C Prototipo":*** se encuentran las primera inplemntaciones de las 2 carpetas anteriores   
+En la carpeta ***"D presentación":*** se encuentran la preecentacion de trabajo concluido  
+
+TP #1 Simulación Eléctrica 
+ 
 # Resumen del TP
 
 ***1. Circuito básico con fuente de tensión, resistencia y LED:***
@@ -78,4 +85,5 @@ Sofware
 • Analizar y comprender los resultados de las simulaciones. 
 
 ## Actualizacion
-***
+*** 
+14/04/2024 "Modificacion de readme.md

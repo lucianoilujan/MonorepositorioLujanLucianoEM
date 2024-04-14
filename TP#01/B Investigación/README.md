@@ -5,10 +5,10 @@
 
 ### Informacion General
 ***
-Carpeta: ***C Prototipo***
-# Prototipo
+Carpeta: ***B Investigación***
+# Investigación
 
-***En esta carpeta estara toda los primero prototipos o Ensayo que se haga para TP#01:***
+***En esta carpeta estara toda la investigacion que se haga para TP#01:***
 
 
 
@@ -18,15 +18,12 @@ Carpeta: ***C Prototipo***
 Software 
 ```
 visualizador de PDF
-Poteus
-Tinkercad
-Otros
+
 ```
 ## Objetivos
 ***
-• llegar a implementar las ideas y las herramientas
- que estaba en la carpeta de investigacion  
-• analizar posobles fallas
+• investigacion de temas o herramientas que desconocemos  
+• comprender su funcionamiento 
 
 ## Actualizacion
 ***
