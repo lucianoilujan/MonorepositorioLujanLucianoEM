@@ -1,4 +1,4 @@
-![alt text](caratula.png)
+![alt text](/MonorepositorioLujanLucianoEM/Recursos/visulaes/caratula.png)
 # Tecnicatura Superior en Telecomunicaciones
 ### Profesor:C.Gonzalo Vera   
 ### Alumno: Luciano Lujan
