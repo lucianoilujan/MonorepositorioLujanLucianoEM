@@ -25,16 +25,21 @@ TP #1 Simulación Eléctrica
 ***5. Diseñar y simular un circuito con un amplificador operacional como comparador y analizar su comportamiento.***  
 
 
+
 ## Recursos
 Sofware 
 ```
  Tinkercad
  Vscode
  Proteus
+ Wokwi
 ```
 ## Objetivos
 ***
-• Comprender los fundamentos eléctricos básicos en circuitos.  
+• Comprender los fundamentos eléctricos y electrónicos básicos en circuitos.  
+• Aprender a diseñar y simular circuitos eléctricos y electrónicos.  
+• Familiarizarse con los componentes eléctricos y electrónicos, y su función en los circuitos.  
+• Analizar y comprender los resultados de las simulaciones.  
 
 ## Actualizacion
 ***

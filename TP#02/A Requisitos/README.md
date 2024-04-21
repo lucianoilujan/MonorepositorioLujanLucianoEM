@@ -5,10 +5,10 @@
 
 ### Informacion General
 ***
-Carpeta: ***B Investigación***
-# Investigación
+Carpeta: ***A Requisitos***
+# Requisitos
 
-***En esta carpeta estara toda la investigacion que se haga para TP#01:***
+***En esta carpeta estara los requisitos del TP#01:***
 
 
 
@@ -17,13 +17,11 @@ Carpeta: ***B Investigación***
 ## Recursos
 Software 
 ```
-visualizador de PDF
-
+ visualizador de PDF
 ```
 ## Objetivos
 ***
-• investigacion de temas o herramientas que desconocemos  
-• comprender su funcionamiento 
+• Tener bien en claro la consigna pedida 
 
 ## Actualizacion
 ***

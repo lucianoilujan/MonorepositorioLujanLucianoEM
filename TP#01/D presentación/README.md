@@ -5,7 +5,7 @@
 
 ### Informacion General
 ***
-Carpeta: ***D Precentacion***
+Carpeta: ***De Precentacion***
 # Precentaciòn
 
 ***En esta carpeta estara toda la precentación que se haga para TP#01:***
