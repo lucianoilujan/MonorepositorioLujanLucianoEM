@@ -8,7 +8,7 @@
 Carpeta: ***A Requisitos***
 # Requisitos
 
-***En esta carpeta estara los requisitos del TP#02:***
+***En esta carpeta estara los requisitos del TP#01:***
 
 
 

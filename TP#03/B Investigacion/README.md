@@ -8,7 +8,7 @@
 Carpeta: ***B Investigación***
 # Investigación
 
-***En esta carpeta estara toda la investigacion que se haga para TP#01:***
+***En esta carpeta estara toda la investigacion que se haga para TP#03:***
 
 
 

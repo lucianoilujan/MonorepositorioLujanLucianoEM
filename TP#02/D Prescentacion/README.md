@@ -8,7 +8,7 @@
 Carpeta: ***D Precentacion***
 # Precentaciòn
 
-***En esta carpeta estara toda la precentación que se haga para TP#01:***
+***En esta carpeta estara toda la precentación que se haga para TP#02:***
 
 
 
