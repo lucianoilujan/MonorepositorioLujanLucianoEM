@@ -8,7 +8,7 @@
 Carpeta: ***C Prototipo***
 # Prototipo
 
-***En esta carpeta estara todos los primero prototipos o Ensayo que se haga para TP#03:***
+***En esta carpeta estara todos los primero prototipos o Ensayo que se haga para TP#06:***
 
 
 
